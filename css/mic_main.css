@@ -52,11 +52,12 @@
 			height: 100%;
 			background-color: #212931;
 			background-image :url("../../images/bg.jpg") ;
+			-webkit-background-image :url("../../images/12.jpg") ;
 			background-position: center; 
 			background-repeat: no-repeat; 
 			background-attachment:fixed; 
 			background-size: cover; 
-			-webkit-background-size: 100% 100%;/* 兼容Webkit内核浏览器如Chrome和Safari */ 
+			-webkit-background-size: cover;/* 兼容Webkit内核浏览器如Chrome和Safari */ 
 			-o-background-size: cover;/* 兼容Opera */ 
 			zoom: 1; 
 			z-index: -1;
