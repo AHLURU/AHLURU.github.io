@@ -52,7 +52,6 @@
 			height: 100%;
 			background-color: #212931;
 			background-image :url("../../images/bg.jpg") ;
-			-webkit-background-image :url("../../images/12.jpg") ;
 			background-position: top center; 
 			background-repeat: no-repeat; 
 			background-attachment:fixed; 
